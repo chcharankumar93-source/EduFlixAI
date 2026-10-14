@@ -1,0 +1,18 @@
+{
+  "name": "EduFlix AI — Adaptive Learning & Sustainable Community Skills",
+  "short_name": "EduFlix AI",
+  "description": "AI-powered adaptive learning platform with community sustainability challenges and CO₂ impact tracking.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#141414",
+  "theme_color": "#141414",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
